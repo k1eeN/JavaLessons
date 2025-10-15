@@ -1,4 +1,4 @@
-package lesson3operator;
+package lesson3conditions;
 
 public class HomeWork3 {
     public static void main(String[] args) {
