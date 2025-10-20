@@ -1,4 +1,4 @@
-package lesson6loop;
+package lesson_6_loop;
 
 public class Lesson6Loop2 {
     public static void main(String[] args) {

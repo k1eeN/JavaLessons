@@ -1,4 +1,4 @@
-package lesson8stringandswitch;
+package lesson_8_string_and_switch;
 
 public class Lesson8Months {
     public static void main(String[] args) {

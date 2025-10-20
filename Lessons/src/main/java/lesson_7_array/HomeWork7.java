@@ -1,4 +1,4 @@
-package lesson7array;
+package lesson_7_array;
 
 public class HomeWork7 {
     public static void main(String[] args) {

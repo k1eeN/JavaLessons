@@ -1,4 +1,4 @@
-package lesson5primitive;
+package lesson_5_primitive;
 
 public class HomeWork5 {
     public static void main(String[] args) {

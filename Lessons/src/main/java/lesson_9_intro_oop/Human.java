@@ -1,4 +1,4 @@
-package lesson9introoop;
+package lesson_9_intro_oop;
 
 public class Human {
     String name;

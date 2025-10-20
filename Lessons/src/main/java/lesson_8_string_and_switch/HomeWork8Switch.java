@@ -1,4 +1,4 @@
-package lesson8stringandswitch;
+package lesson_8_string_and_switch;
 
 public class HomeWork8Switch {
     public static void main(String[] args) {

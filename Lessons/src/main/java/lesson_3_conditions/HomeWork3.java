@@ -1,4 +1,4 @@
-package lesson3conditions;
+package lesson_3_conditions;
 
 public class HomeWork3 {
     public static void main(String[] args) {

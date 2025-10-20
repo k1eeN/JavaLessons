@@ -1,4 +1,4 @@
-package lesson4integers;
+package lesson_4_integers;
 
 public class Lesson4 {
     public static void main(String[] args) {

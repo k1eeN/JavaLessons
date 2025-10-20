@@ -1,4 +1,4 @@
-package lesson2variables;
+package lesson_2_variables;
 
 public class HomeWork2 {
     public static void main(String[] args) {
