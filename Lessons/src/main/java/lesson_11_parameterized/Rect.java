@@ -4,14 +4,14 @@ public class Rect {
     int length;
     int width;
 
-    void first (int length, int width) {
+    void getDimens (int length, int width) {
         this.length = length;
         this.width = width;
     }
-    String second () {
+    String getPerimeter () {
         return "P= " + 2 * (length + width);
     }
-    String third () {
+    String getSquare () {
         return "S= " + length * width;
     }
 }

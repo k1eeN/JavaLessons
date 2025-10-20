@@ -7,6 +7,6 @@ public class HomeWork10 {
         dog.breed = "Джек рассол";
         dog.speed = 25;
         dog.run();
-        System.out.println(dog.info());
+        System.out.println(dog.getInfo());
     }
 }
