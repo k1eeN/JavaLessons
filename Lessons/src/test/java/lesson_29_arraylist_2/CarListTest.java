@@ -7,12 +7,14 @@ import static org.junit.Assert.assertTrue;
 import org.junit.Before;
 import org.junit.Test;
 
+import lesson_30_linkedlist.CarLinkedList;
+
 public class CarListTest {
     private CarList carList;
 
     @Before
     public void setUp() throws Exception {
-        carList = new CarArrayList();
+        carList = new CarLinkedList();
         for (int i = 0; i < 100; i++) {
             carList.add(new Car("Brand" + i, i));
         }
