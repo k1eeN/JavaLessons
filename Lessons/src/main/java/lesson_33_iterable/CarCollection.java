@@ -1,0 +1,14 @@
+package lesson_33_iterable;
+
+public interface CarCollection extends Iterable<Car> {
+    boolean add(Car car);
+
+    boolean remove(Car car);
+
+    boolean contains(Car car);
+
+    int size();
+
+    void clear();
+
+}
